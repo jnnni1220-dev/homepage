@@ -1,0 +1,28 @@
+{
+  "name": "data-scientist-portfolio",
+  "version": "1.0.0",
+  "description": "데이터 사이언티스트를 위한 전문적인 포트폴리오 웹사이트",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python -m http.server 8000",
+    "serve-node": "npx http-server",
+    "build": "echo 'No build needed for static site'",
+    "deploy": "echo 'Deploy to GitHub Pages, Netlify, or Vercel'"
+  },
+  "keywords": [
+    "portfolio",
+    "data-scientist",
+    "machine-learning",
+    "web-development",
+    "responsive-design"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/homepage.git"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

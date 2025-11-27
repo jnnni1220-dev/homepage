@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "고객 이탈 예측 모델",
+    "category": "machine-learning",
+    "description": "고객 이탈 패턴을 분석하여 머신러닝 모델로 예측하는 프로젝트",
+    "image": "📊",
+    "technologies": ["Python", "Scikit-learn", "Pandas", "XGBoost"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 2,
+    "title": "주택 가격 예측 시스템",
+    "category": "machine-learning",
+    "description": "회귀 분석을 활용한 부동산 가격 예측 모델 개발",
+    "image": "🏠",
+    "technologies": ["Python", "Scikit-learn", "Matplotlib", "NumPy"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 3,
+    "title": "SNS 감정 분석 프로젝트",
+    "category": "data-analysis",
+    "description": "소셜 미디어 텍스트 데이터에서 감정을 분석하는 NLP 프로젝트",
+    "image": "💭",
+    "technologies": ["Python", "NLP", "NLTK", "Pandas", "Plotly"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 4,
+    "title": "판매 데이터 분석 대시보드",
+    "category": "data-analysis",
+    "description": "판매 데이터를 시각화하고 주요 인사이트를 제시하는 대시보드",
+    "image": "📈",
+    "technologies": ["Python", "Plotly", "Pandas", "SQL"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 5,
+    "title": "이미지 분류 딥러닝 모델",
+    "category": "machine-learning",
+    "description": "CNN을 활용한 이미지 분류 모델 개발 및 최적화",
+    "image": "🖼️",
+    "technologies": ["TensorFlow", "Keras", "Python", "OpenCV"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 6,
+    "title": "데이터 분석 웹 애플리케이션",
+    "category": "web-app",
+    "description": "Flask와 Python으로 만든 실시간 데이터 분석 웹 애플리케이션",
+    "image": "🌐",
+    "technologies": ["Flask", "Python", "JavaScript", "D3.js"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 7,
+    "title": "시계열 데이터 예측",
+    "category": "machine-learning",
+    "description": "ARIMA 모델을 활용한 시계열 데이터 예측 및 분석",
+    "image": "📉",
+    "technologies": ["Python", "Statsmodels", "Pandas", "Matplotlib"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 8,
+    "title": "추천 시스템",
+    "category": "machine-learning",
+    "description": "협업 필터링과 콘텐츠 기반 필터링을 결합한 추천 시스템",
+    "image": "⭐",
+    "technologies": ["Python", "Scikit-learn", "Pandas", "Surprise"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  },
+  {
+    "id": 9,
+    "title": "데이터 시각화 도구",
+    "category": "web-app",
+    "description": "대용량 데이터를 인터랙티브하게 시각화할 수 있는 웹 도구",
+    "image": "📊",
+    "technologies": ["React", "D3.js", "JavaScript", "Node.js"],
+    "github": "https://github.com",
+    "demo": "https://example.com"
+  }
+]
